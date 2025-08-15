@@ -22,7 +22,10 @@ None.
 
 To ensure reliability and simplicity, it utilizes 10 CMOS 4000 ICs to make all the magic happen.  
 
-Also check out new drop in replacement [sensors](https://github.com/ArthorH/Simple-IR-Light-barrier) 
+# Also check out new drop in replacement [sensors](https://github.com/ArthorH/Simple-IR-Light-barrier) 
+
+<img width="584" height="324" alt="image" src="https://github.com/user-attachments/assets/ade409e4-f697-455e-ad53-c2ed87f7ff7c" />
+
 ## Device in action:
 [In this video](https://www.youtube.com/watch?v=xdkL_AgzkSc)
 
