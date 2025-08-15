@@ -37,7 +37,14 @@ It is not recommended to manufacture this version (REV A) as it has 10 errors on
 <img align="center" height="160" src="https://github.com/user-attachments/assets/43e30967-946e-4c76-8b30-b151a21fcf93">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 <img align="center" height="160" src="https://github.com/user-attachments/assets/87d12fee-ff72-4789-b063-e5ceea5e3cda">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
+# This project perfomed during 
+- Robotic Arena 2023
+- Robotic Arena 2024
+- Robotic Arena 2025
 
+3 years of service badge goes here:
+
+<img width="523" height="417" alt="image" src="https://github.com/user-attachments/assets/ca10c0dc-fef3-4627-9df9-03e20f02580a" />
 
 
 ## Authors
