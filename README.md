@@ -13,7 +13,8 @@ LF-Timegate is a time measurement device developed to assist with Line Follower 
 <img align="center" height="160" src="https://github.com/user-attachments/assets/b293a596-0de7-4218-8f7d-6d8abdd7de3b">
 
 
-For more information, read the [setup guide](https://github.com/ArthorH/LF-Timegate-REVA/blob/main/LF-Timegate-Setup-Guide.pdf).
+# For more information, read the [setup guide](https://github.com/ArthorH/LF-Timegate-REVA/blob/main/LF-Timegate-Setup-Guide.pdf).
+<img width="918" height="407" alt="image" src="https://github.com/user-attachments/assets/55bdff81-5b3f-4810-9e6b-96a504002fde" />
 
 ## What MCU does it use?
 None.
