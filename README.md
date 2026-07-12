@@ -34,7 +34,7 @@ To ensure reliability and simplicity, it utilizes 10 CMOS 4000 ICs to make all t
 <img align="center" height="220" src="https://github.com/user-attachments/assets/cb4966d3-725b-4cf5-bda3-bf1a30326bdd">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 <img align="center" height="600" src="https://github.com/user-attachments/assets/bfb66d14-5c6c-4270-8d43-93c3d3f25b9d">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 ## Caution:
-It is not recommended to manufacture this version (REV A) as it has 10 errors on the PCB. They are fairly simple and fixable as shown here:
+It is not recommended to manufacture this version (REV A) look in github issues for information.
 
 # This project perfomed during 
 - Robotic Arena 2023
