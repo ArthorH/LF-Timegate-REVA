@@ -45,10 +45,12 @@ It is not recommended to manufacture this version (REV A) as it has 10 errors on
 - Robotic Arena 2023
 - Robotic Arena 2024
 - Robotic Arena 2025
+- Robotic Arena 2026
+  
+4 years of service badge goes here:
 
-3 years of service badge goes here:
+<img width="377" height="406" alt="image" src="https://github.com/user-attachments/assets/5ad2a6fd-793a-43a7-a2c5-f5aa187c6fc3" />
 
-<img width="523" height="417" alt="image" src="https://github.com/user-attachments/assets/ca10c0dc-fef3-4627-9df9-03e20f02580a" />
 
 
 ## Authors
