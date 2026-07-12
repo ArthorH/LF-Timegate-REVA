@@ -36,11 +36,6 @@ To ensure reliability and simplicity, it utilizes 10 CMOS 4000 ICs to make all t
 ## Caution:
 It is not recommended to manufacture this version (REV A) as it has 10 errors on the PCB. They are fairly simple and fixable as shown here:
 
-#### Error in state machine 
-<img align="center" height="160" src="https://github.com/user-attachments/assets/a0aee744-cc08-4c6b-b303-2f296a8f9929">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="160" src="https://github.com/user-attachments/assets/43e30967-946e-4c76-8b30-b151a21fcf93">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-<img align="center" height="160" src="https://github.com/user-attachments/assets/87d12fee-ff72-4789-b063-e5ceea5e3cda">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-
 # This project perfomed during 
 - Robotic Arena 2023
 - Robotic Arena 2024
